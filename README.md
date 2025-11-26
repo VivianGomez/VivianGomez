@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="1920" height="1080" alt="VivianBanner" src="https://github.com/user-attachments/assets/99d68c42-f344-4123-b483-90df37cec658" />
 
 <!--
 **VivianGomez/VivianGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
