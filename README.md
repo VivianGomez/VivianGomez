@@ -9,3 +9,8 @@ I’m a Systems and Computing Engineer with a Master’s in Visual Computing and
 I currently serve as a faculty member at Universidad de los Andes and coordinate the COLIVRI Lab, where I mentor research projects and teach courses on team-based software development, mobile applications, HCI, and UX/UI design.
 
 My research interests include extended realities for learning and training, human–computer interaction, and digital twins of physical environments, especially laboratories and training spaces.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivianGomez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivianGomez&show_icons=true&theme=github_dark)
+
