@@ -6,7 +6,7 @@ Hey there 👋
 
 I’m a Systems and Computing Engineer with a Master’s in Computer Science and 6+ years of experience building virtual and extended reality solutions for training and learning. I’ve worked across academia and industry, developing XR projects with organizations such as the Colombian Navy and Ecopetrol.
 
-I currently serve as a faculty member at Universidad de los Andes and coordinate the COLIVRI Lab, where I mentor research projects and teach courses on team-based software development, mobile applications, HCI, and UX/UI design.
+I currently serve as a faculty member at Universidad de los Andes and coordinate the COLIVRI Lab, where I mentor research projects in XR/VR/MR and teach courses on team-based software development, mobile applications, and UX/UI design.
 
 My research interests include extended realities for learning and training, human–computer interaction, and digital twins of physical environments, especially laboratories and training spaces.
 
